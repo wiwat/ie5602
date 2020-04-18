@@ -1,0 +1,62 @@
+.main-content ul {
+    padding-left: 16px;
+}
+
+.main-content :first-child {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.instructorphoto img {
+    width: 150px;
+    border-radius: 150px;
+    margin-bottom: 10px;
+}
+
+.instructor {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.th-font {
+    font-family: 'Prompt', sans-serif;
+}
+
+#accouncements h2 {
+    color: #87D37C;
+    text-align: center;
+}
+
+#accouncements p {
+    font-size: 20px;
+    margin: auto;
+    padding-left: 80px;
+}
+
+#accouncements p:last-child {
+    margin-bottom: 50px;
+}
+
+.msg-alert {
+    color: rgb(246, 71, 71)
+}
+
+.card-box {
+    margin: 20px 0;
+}
+
+.card-box p, .card-box h4 {
+    color: #606c71;
+    margin: 4px 0 !important;
+}
+
+.card-title {
+    color: #606c71;
+}
+
+.alert-msg {
+    color: teal;
+}
